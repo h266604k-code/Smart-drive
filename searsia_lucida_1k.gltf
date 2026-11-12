@@ -403,27 +403,27 @@
     {
       "mimeType": "image/jpeg",
       "name": "searsia_lucida_nor_gl",
-      "uri": "textures/searsia_lucida_nor_gl_1k.jpg"
+      "uri": "searsia_lucida_nor_gl_1k.jpg"
     },
     {
       "mimeType": "image/jpeg",
       "name": "searsia_lucida_diff",
-      "uri": "textures/searsia_lucida_diff_1k.jpg"
+      "uri": "searsia_lucida_diff_1k.jpg"
     },
     {
       "mimeType": "image/jpeg",
       "name": "searsia_lucida_rough",
-      "uri": "textures/searsia_lucida_arm_1k.jpg"
+      "uri": "searsia_lucida_arm_1k.jpg"
     },
     {
       "mimeType": "image/jpeg",
       "name": "searsia_lucida_diff-searsia_lucida_alpha",
-      "uri": "textures/searsia_lucida_diff_1k.jpg"
+      "uri": "searsia_lucida_diff_1k.jpg"
     },
     {
       "mimeType": "image/jpeg",
       "name": "searsia_lucida_diff-searsia_lucida_alpha",
-      "uri": "textures/searsia_lucida_diff_1k.jpg"
+      "uri": "searsia_lucida_diff_1k.jpg"
     }
   ],
   "accessors": [
