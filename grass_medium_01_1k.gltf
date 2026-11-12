@@ -455,17 +455,17 @@
     {
       "mimeType": "image/jpeg",
       "name": "grass_medium_01_nor_gl",
-      "uri": "textures/grass_medium_01_nor_gl_1k.jpg"
+      "uri": "grass_medium_01_nor_gl_1k.jpg"
     },
     {
       "mimeType": "image/jpeg",
       "name": "grass_medium_01_diff-grass_medium_01_alpha",
-      "uri": "textures/grass_medium_01_diff_1k.jpg"
+      "uri": "grass_medium_01_diff_1k.jpg"
     },
     {
       "mimeType": "image/jpeg",
       "name": "grass_medium_01_rough",
-      "uri": "textures/grass_medium_01_arm_1k.jpg"
+      "uri": "grass_medium_01_arm_1k.jpg"
     }
   ],
   "accessors": [
