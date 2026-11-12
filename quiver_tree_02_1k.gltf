@@ -70,17 +70,17 @@
     {
       "mimeType": "image/jpeg",
       "name": "quiver_tree_02_nor_gl",
-      "uri": "textures/quiver_tree_02_nor_gl_1k.jpg"
+      "uri": "quiver_tree_02_nor_gl_1k.jpg"
     },
     {
       "mimeType": "image/jpeg",
       "name": "quiver_tree_02_diff",
-      "uri": "textures/quiver_tree_02_diff_1k.jpg"
+      "uri": "quiver_tree_02_diff_1k.jpg"
     },
     {
       "mimeType": "image/jpeg",
       "name": "quiver_tree_02_rough",
-      "uri": "textures/quiver_tree_02_arm_1k.jpg"
+      "uri": "quiver_tree_02_arm_1k.jpg"
     }
   ],
   "accessors": [
