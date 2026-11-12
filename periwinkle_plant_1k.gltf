@@ -209,17 +209,17 @@
     {
       "mimeType": "image/jpeg",
       "name": "periwinkle_plant_nor_gl",
-      "uri": "textures/periwinkle_plant_nor_gl_1k.jpg"
+      "uri": "periwinkle_plant_nor_gl_1k.jpg"
     },
     {
       "mimeType": "image/jpeg",
       "name": "periwinkle_plant_diff-periwinkle_plant_opacity",
-      "uri": "textures/periwinkle_plant_diff_1k.jpg"
+      "uri": "periwinkle_plant_diff_1k.jpg"
     },
     {
       "mimeType": "image/jpeg",
       "name": "periwinkle_plant_rough",
-      "uri": "textures/periwinkle_plant_arm_1k.jpg"
+      "uri": "periwinkle_plant_arm_1k.jpg"
     }
   ],
   "accessors": [
