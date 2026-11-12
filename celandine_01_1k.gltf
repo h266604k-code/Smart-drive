@@ -167,17 +167,17 @@
     {
       "mimeType": "image/jpeg",
       "name": "celandine_01_nor_gl",
-      "uri": "textures/celandine_01_nor_gl_1k.jpg"
+      "uri": "celandine_01_nor_gl_1k.jpg"
     },
     {
       "mimeType": "image/jpeg",
       "name": "celandine_01_diff-celandine_01_alpha",
-      "uri": "textures/celandine_01_diff_1k.jpg"
+      "uri": "celandine_01_diff_1k.jpg"
     },
     {
       "mimeType": "image/jpeg",
       "name": "celandine_01_rough",
-      "uri": "textures/celandine_01_arm_1k.jpg"
+      "uri": "celandine_01_arm_1k.jpg"
     }
   ],
   "accessors": [
